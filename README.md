@@ -1,4 +1,4 @@
-👁️‍🗨️ SeeSharp — Object Detection AI for the Visually Impaired
+###👁️‍🗨️ SeeSharp — Object Detection AI for the Visually Impaired
 SeeSharp is a web application designed to enhance accessibility for individuals with visual impairments by leveraging advanced object detection technology. Users can upload an image or capture one via webcam, and SeeSharp identifies the objects present. These are then spoken aloud using text-to-speech, allowing users to better understand and interact with their surroundings.
 
 Features:
