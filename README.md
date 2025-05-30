@@ -30,9 +30,9 @@
 git clone https://github.com/your-username/SeeSharp.git
 cd SeeSharp
 ```
-2. Download YOLOv3 Weights
+### 2. Download YOLOv3 Weights
 You need the pre-trained YOLOv3 weights to run object detection.
-📥 Download yolov3.weights from Kaggle (or another trusted source), and place it in the backend/model/ directory.
+**📥 Download yolov3.weights from Kaggle (or another trusted source), and place it in the backend/model/ directory.**
 Also ensure the following files are present in the same directory:
-yolov3.cfg
-coco.names
+**yolov3.cfg**
+**coco.names**
